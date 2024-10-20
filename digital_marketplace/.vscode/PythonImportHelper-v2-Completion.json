@@ -1,0 +1,872 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "base64",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "base64",
+        "description": "base64",
+        "detail": "base64",
+        "documentation": {}
+    },
+    {
+        "label": "dataclasses",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "decimal",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "decimal",
+        "description": "decimal",
+        "detail": "decimal",
+        "documentation": {}
+    },
+    {
+        "label": "typing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typing",
+        "description": "typing",
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "algokit_utils",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "Account",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "ApplicationSpecification",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "Account",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "ApplicationSpecification",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "EnsureBalanceParameters",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_funded",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_account",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_algod_client",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_indexer_client",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_algod_client",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_default_localnet_config",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_indexer_client",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_localnet_default_account",
+        "importPath": "algokit_utils",
+        "description": "algokit_utils",
+        "isExtraImport": true,
+        "detail": "algokit_utils",
+        "documentation": {}
+    },
+    {
+        "label": "algosdk",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "algosdk",
+        "description": "algosdk",
+        "detail": "algosdk",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "algosdk.v2client",
+        "description": "algosdk.v2client",
+        "isExtraImport": true,
+        "detail": "algosdk.v2client",
+        "documentation": {}
+    },
+    {
+        "label": "AtomicTransactionComposer",
+        "importPath": "algosdk.atomic_transaction_composer",
+        "description": "algosdk.atomic_transaction_composer",
+        "isExtraImport": true,
+        "detail": "algosdk.atomic_transaction_composer",
+        "documentation": {}
+    },
+    {
+        "label": "AtomicTransactionResponse",
+        "importPath": "algosdk.atomic_transaction_composer",
+        "description": "algosdk.atomic_transaction_composer",
+        "isExtraImport": true,
+        "detail": "algosdk.atomic_transaction_composer",
+        "documentation": {}
+    },
+    {
+        "label": "SimulateAtomicTransactionResponse",
+        "importPath": "algosdk.atomic_transaction_composer",
+        "description": "algosdk.atomic_transaction_composer",
+        "isExtraImport": true,
+        "detail": "algosdk.atomic_transaction_composer",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionSigner",
+        "importPath": "algosdk.atomic_transaction_composer",
+        "description": "algosdk.atomic_transaction_composer",
+        "isExtraImport": true,
+        "detail": "algosdk.atomic_transaction_composer",
+        "documentation": {}
+    },
+    {
+        "label": "TransactionWithSigner",
+        "importPath": "algosdk.atomic_transaction_composer",
+        "description": "algosdk.atomic_transaction_composer",
+        "isExtraImport": true,
+        "detail": "algosdk.atomic_transaction_composer",
+        "documentation": {}
+    },
+    {
+        "label": "ARC4Contract",
+        "importPath": "algopy",
+        "description": "algopy",
+        "isExtraImport": true,
+        "detail": "algopy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "algopy",
+        "description": "algopy",
+        "isExtraImport": true,
+        "detail": "algopy",
+        "documentation": {}
+    },
+    {
+        "label": "abimethod",
+        "importPath": "algopy.arc4",
+        "description": "algopy.arc4",
+        "isExtraImport": true,
+        "detail": "algopy.arc4",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "AlgodClient",
+        "importPath": "algosdk.v2client.algod",
+        "description": "algosdk.v2client.algod",
+        "isExtraImport": true,
+        "detail": "algosdk.v2client.algod",
+        "documentation": {}
+    },
+    {
+        "label": "AlgodClient",
+        "importPath": "algosdk.v2client.algod",
+        "description": "algosdk.v2client.algod",
+        "isExtraImport": true,
+        "detail": "algosdk.v2client.algod",
+        "documentation": {}
+    },
+    {
+        "label": "AlgodClient",
+        "importPath": "algosdk.v2client.algod",
+        "description": "algosdk.v2client.algod",
+        "isExtraImport": true,
+        "detail": "algosdk.v2client.algod",
+        "documentation": {}
+    },
+    {
+        "label": "AlgodClient",
+        "importPath": "algosdk.v2client.algod",
+        "description": "algosdk.v2client.algod",
+        "isExtraImport": true,
+        "detail": "algosdk.v2client.algod",
+        "documentation": {}
+    },
+    {
+        "label": "AlgodClient",
+        "importPath": "algosdk.v2client.algod",
+        "description": "algosdk.v2client.algod",
+        "isExtraImport": true,
+        "detail": "algosdk.v2client.algod",
+        "documentation": {}
+    },
+    {
+        "label": "IndexerClient",
+        "importPath": "algosdk.v2client.indexer",
+        "description": "algosdk.v2client.indexer",
+        "isExtraImport": true,
+        "detail": "algosdk.v2client.indexer",
+        "documentation": {}
+    },
+    {
+        "label": "IndexerClient",
+        "importPath": "algosdk.v2client.indexer",
+        "description": "algosdk.v2client.indexer",
+        "isExtraImport": true,
+        "detail": "algosdk.v2client.indexer",
+        "documentation": {}
+    },
+    {
+        "label": "IndexerClient",
+        "importPath": "algosdk.v2client.indexer",
+        "description": "algosdk.v2client.indexer",
+        "isExtraImport": true,
+        "detail": "algosdk.v2client.indexer",
+        "documentation": {}
+    },
+    {
+        "label": "IndexerClient",
+        "importPath": "algosdk.v2client.indexer",
+        "description": "algosdk.v2client.indexer",
+        "isExtraImport": true,
+        "detail": "algosdk.v2client.indexer",
+        "documentation": {}
+    },
+    {
+        "label": "IndexerClient",
+        "importPath": "algosdk.v2client.indexer",
+        "description": "algosdk.v2client.indexer",
+        "isExtraImport": true,
+        "detail": "algosdk.v2client.indexer",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "rmtree",
+        "importPath": "shutil",
+        "description": "shutil",
+        "isExtraImport": true,
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "importlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "importlib",
+        "description": "importlib",
+        "detail": "importlib",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "collections.abc",
+        "description": "collections.abc",
+        "isExtraImport": true,
+        "detail": "collections.abc",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "collections.abc",
+        "description": "collections.abc",
+        "isExtraImport": true,
+        "detail": "collections.abc",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "collections.abc",
+        "description": "collections.abc",
+        "isExtraImport": true,
+        "detail": "collections.abc",
+        "documentation": {}
+    },
+    {
+        "label": "algos_to_microalgos",
+        "importPath": "algosdk.util",
+        "description": "algosdk.util",
+        "isExtraImport": true,
+        "detail": "algosdk.util",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "importPath": "algokit_utils.config",
+        "description": "algokit_utils.config",
+        "isExtraImport": true,
+        "detail": "algokit_utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "DigitalMarketplaceClient",
+        "importPath": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "description": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "isExtraImport": true,
+        "detail": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "documentation": {}
+    },
+    {
+        "label": "AlgopyTestContext",
+        "importPath": "algopy_testing",
+        "description": "algopy_testing",
+        "isExtraImport": true,
+        "detail": "algopy_testing",
+        "documentation": {}
+    },
+    {
+        "label": "algopy_testing_context",
+        "importPath": "algopy_testing",
+        "description": "algopy_testing",
+        "isExtraImport": true,
+        "detail": "algopy_testing",
+        "documentation": {}
+    },
+    {
+        "label": "DigitalMarketplace",
+        "importPath": "smart_contracts.digital_marketplace.contract",
+        "description": "smart_contracts.digital_marketplace.contract",
+        "isExtraImport": true,
+        "detail": "smart_contracts.digital_marketplace.contract",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len('Scripts') - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = 'digital-marketplace-py3.12' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len('Scripts') - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = 'digital-marketplace-py3.12' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = 'digital-marketplace-py3.12' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = 'digital-marketplace-py3.12' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = 'digital-marketplace-py3.12' or os.path.basename(base)\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in '..\\\\Lib\\\\site-packages'.split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if '' else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "_ArgsBase",
+        "kind": 6,
+        "importPath": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "description": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "peekOfCode": "class _ArgsBase(ABC, typing.Generic[_TReturn]):\n    @staticmethod\n    @abstractmethod\n    def method() -> str:\n        ...\n_TArgs = typing.TypeVar(\"_TArgs\", bound=_ArgsBase[typing.Any])\n@dataclasses.dataclass(kw_only=True)\nclass _TArgsHolder(typing.Generic[_TArgs]):\n    args: _TArgs\ndef _filter_none(value: dict | typing.Any) -> dict | typing.Any:",
+        "detail": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "documentation": {}
+    },
+    {
+        "label": "_TArgsHolder",
+        "kind": 6,
+        "importPath": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "description": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "peekOfCode": "class _TArgsHolder(typing.Generic[_TArgs]):\n    args: _TArgs\ndef _filter_none(value: dict | typing.Any) -> dict | typing.Any:\n    if isinstance(value, dict):\n        return {k: _filter_none(v) for k, v in value.items() if v is not None}\n    return value\ndef _as_dict(data: typing.Any, *, convert_all: bool = True) -> dict[str, typing.Any]:\n    if data is None:\n        return {}\n    if not dataclasses.is_dataclass(data):",
+        "detail": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "documentation": {}
+    },
+    {
+        "label": "HelloArgs",
+        "kind": 6,
+        "importPath": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "description": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "peekOfCode": "class HelloArgs(_ArgsBase[str]):\n    name: str\n    @staticmethod\n    def method() -> str:\n        return \"hello(string)string\"\n@dataclasses.dataclass(kw_only=True)\nclass SimulateOptions:\n    allow_more_logs: bool = dataclasses.field(default=False)\n    allow_empty_signatures: bool = dataclasses.field(default=False)\n    extra_opcode_budget: int = dataclasses.field(default=0)",
+        "detail": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "documentation": {}
+    },
+    {
+        "label": "SimulateOptions",
+        "kind": 6,
+        "importPath": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "description": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "peekOfCode": "class SimulateOptions:\n    allow_more_logs: bool = dataclasses.field(default=False)\n    allow_empty_signatures: bool = dataclasses.field(default=False)\n    extra_opcode_budget: int = dataclasses.field(default=0)\n    exec_trace_config: models.SimulateTraceConfig | None         = dataclasses.field(default=None)\nclass Composer:\n    def __init__(self, app_client: algokit_utils.ApplicationClient, atc: AtomicTransactionComposer):\n        self.app_client = app_client\n        self.atc = atc\n    def build(self) -> AtomicTransactionComposer:",
+        "detail": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "documentation": {}
+    },
+    {
+        "label": "Composer",
+        "kind": 6,
+        "importPath": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "description": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "peekOfCode": "class Composer:\n    def __init__(self, app_client: algokit_utils.ApplicationClient, atc: AtomicTransactionComposer):\n        self.app_client = app_client\n        self.atc = atc\n    def build(self) -> AtomicTransactionComposer:\n        return self.atc\n    def simulate(self, options: SimulateOptions | None = None) -> SimulateAtomicTransactionResponse:\n        request = models.SimulateRequest(\n            allow_more_logs=options.allow_more_logs,\n            allow_empty_signatures=options.allow_empty_signatures,",
+        "detail": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "documentation": {}
+    },
+    {
+        "label": "DigitalMarketplaceClient",
+        "kind": 6,
+        "importPath": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "description": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "peekOfCode": "class DigitalMarketplaceClient:\n    \"\"\"A class for interacting with the DigitalMarketplace app providing high productivity and\n    strongly typed methods to deploy and call the app\"\"\"\n    @typing.overload\n    def __init__(\n        self,\n        algod_client: algosdk.v2client.algod.AlgodClient,\n        *,\n        app_id: int = 0,\n        signer: TransactionSigner | algokit_utils.Account | None = None,",
+        "detail": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "documentation": {}
+    },
+    {
+        "label": "_APP_SPEC_JSON",
+        "kind": 5,
+        "importPath": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "description": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "peekOfCode": "_APP_SPEC_JSON = r\"\"\"{\n    \"hints\": {\n        \"hello(string)string\": {\n            \"call_config\": {\n                \"no_op\": \"CALL\"\n            }\n        }\n    },\n    \"source\": {\n        \"approval\": \"I3ByYWdtYSB2ZXJzaW9uIDEwCgpzbWFydF9jb250cmFjdHMuZGlnaXRhbF9tYXJrZXRwbGFjZS5jb250cmFjdC5EaWdpdGFsTWFya2V0cGxhY2UuYXBwcm92YWxfcHJvZ3JhbToKICAgIGNhbGxzdWIgX19wdXlhX2FyYzRfcm91dGVyX18KICAgIHJldHVybgoKCi8vIHNtYXJ0X2NvbnRyYWN0cy5kaWdpdGFsX21hcmtldHBsYWNlLmNvbnRyYWN0LkRpZ2l0YWxNYXJrZXRwbGFjZS5fX3B1eWFfYXJjNF9yb3V0ZXJfXygpIC0+IHVpbnQ2NDoKX19wdXlhX2FyYzRfcm91dGVyX186CiAgICBwcm90byAwIDEKICAgIHR4biBOdW1BcHBBcmdzCiAgICBieiBfX3B1eWFfYXJjNF9yb3V0ZXJfX19iYXJlX3JvdXRpbmdANQogICAgbWV0aG9kICJoZWxsbyhzdHJpbmcpc3RyaW5nIgogICAgdHhuYSBBcHBsaWNhdGlvbkFyZ3MgMAogICAgbWF0Y2ggX19wdXlhX2FyYzRfcm91dGVyX19faGVsbG9fcm91dGVAMgogICAgaW50IDAKICAgIHJldHN1YgoKX19wdXlhX2FyYzRfcm91dGVyX19faGVsbG9fcm91dGVAMjoKICAgIHR4biBPbkNvbXBsZXRpb24KICAgICEKICAgIGFzc2VydCAvLyBPbkNvbXBsZXRpb24gaXMgTm9PcAogICAgdHhuIEFwcGxpY2F0aW9uSUQKICAgIGFzc2VydCAvLyBpcyBub3QgY3JlYXRpbmcKICAgIHR4bmEgQXBwbGljYXRpb25BcmdzIDEKICAgIGV4dHJhY3QgMiAwCiAgICBjYWxsc3ViIGhlbGxvCiAgICBkdXAKICAgIGxlbgogICAgaXRvYgogICAgZXh0cmFjdCA2IDIKICAgIHN3YXAKICAgIGNvbmNhdAogICAgYnl0ZSAweDE1MWY3Yzc1CiAgICBzd2FwCiAgICBjb25jYXQKICAgIGxvZwogICAgaW50IDEKICAgIHJldHN1YgoKX19wdXlhX2FyYzRfcm91dGVyX19fYmFyZV9yb3V0aW5nQDU6CiAgICB0eG4gT25Db21wbGV0aW9uCiAgICBibnogX19wdXlhX2FyYzRfcm91dGVyX19fYWZ0ZXJfaWZfZWxzZUA5CiAgICB0eG4gQXBwbGljYXRpb25JRAogICAgIQogICAgYXNzZXJ0IC8vIGlzIGNyZWF0aW5nCiAgICBpbnQgMQogICAgcmV0c3ViCgpfX3B1eWFfYXJjNF9yb3V0ZXJfX19hZnRlcl9pZl9lbHNlQDk6CiAgICBpbnQgMAogICAgcmV0c3ViCgoKLy8gc21hcnRfY29udHJhY3RzLmRpZ2l0YWxfbWFya2V0cGxhY2UuY29udHJhY3QuRGlnaXRhbE1hcmtldHBsYWNlLmhlbGxvKG5hbWU6IGJ5dGVzKSAtPiBieXRlczoKaGVsbG86CiAgICBwcm90byAxIDEKICAgIGJ5dGUgIkhlbGxvLCAiCiAgICBmcmFtZV9kaWcgLTEKICAgIGNvbmNhdAogICAgcmV0c3ViCg==\",",
+        "detail": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "documentation": {}
+    },
+    {
+        "label": "APP_SPEC",
+        "kind": 5,
+        "importPath": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "description": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "peekOfCode": "APP_SPEC = algokit_utils.ApplicationSpecification.from_json(_APP_SPEC_JSON)\n_TReturn = typing.TypeVar(\"_TReturn\")\nclass _ArgsBase(ABC, typing.Generic[_TReturn]):\n    @staticmethod\n    @abstractmethod\n    def method() -> str:\n        ...\n_TArgs = typing.TypeVar(\"_TArgs\", bound=_ArgsBase[typing.Any])\n@dataclasses.dataclass(kw_only=True)\nclass _TArgsHolder(typing.Generic[_TArgs]):",
+        "detail": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "documentation": {}
+    },
+    {
+        "label": "_TReturn",
+        "kind": 5,
+        "importPath": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "description": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "peekOfCode": "_TReturn = typing.TypeVar(\"_TReturn\")\nclass _ArgsBase(ABC, typing.Generic[_TReturn]):\n    @staticmethod\n    @abstractmethod\n    def method() -> str:\n        ...\n_TArgs = typing.TypeVar(\"_TArgs\", bound=_ArgsBase[typing.Any])\n@dataclasses.dataclass(kw_only=True)\nclass _TArgsHolder(typing.Generic[_TArgs]):\n    args: _TArgs",
+        "detail": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "documentation": {}
+    },
+    {
+        "label": "_TArgs",
+        "kind": 5,
+        "importPath": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "description": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "peekOfCode": "_TArgs = typing.TypeVar(\"_TArgs\", bound=_ArgsBase[typing.Any])\n@dataclasses.dataclass(kw_only=True)\nclass _TArgsHolder(typing.Generic[_TArgs]):\n    args: _TArgs\ndef _filter_none(value: dict | typing.Any) -> dict | typing.Any:\n    if isinstance(value, dict):\n        return {k: _filter_none(v) for k, v in value.items() if v is not None}\n    return value\ndef _as_dict(data: typing.Any, *, convert_all: bool = True) -> dict[str, typing.Any]:\n    if data is None:",
+        "detail": "smart_contracts.artifacts.digital_marketplace.digital_marketplace_client",
+        "documentation": {}
+    },
+    {
+        "label": "DigitalMarketplace",
+        "kind": 6,
+        "importPath": "smart_contracts.digital_marketplace.contract",
+        "description": "smart_contracts.digital_marketplace.contract",
+        "peekOfCode": "class DigitalMarketplace(ARC4Contract):\n    assetId: UInt64\n    @abimethod()\n    def hello(self, name: String) -> String:\n        return \"Hello, \" + name",
+        "detail": "smart_contracts.digital_marketplace.contract",
+        "documentation": {}
+    },
+    {
+        "label": "deploy",
+        "kind": 2,
+        "importPath": "smart_contracts.digital_marketplace.deploy_config",
+        "description": "smart_contracts.digital_marketplace.deploy_config",
+        "peekOfCode": "def deploy(\n    algod_client: AlgodClient,\n    indexer_client: IndexerClient,\n    app_spec: algokit_utils.ApplicationSpecification,\n    deployer: algokit_utils.Account,\n) -> None:\n    from smart_contracts.artifacts.digital_marketplace.digital_marketplace_client import (\n        DigitalMarketplaceClient,\n    )\n    app_client = DigitalMarketplaceClient(",
+        "detail": "smart_contracts.digital_marketplace.deploy_config",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "smart_contracts.digital_marketplace.deploy_config",
+        "description": "smart_contracts.digital_marketplace.deploy_config",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# define deployment behaviour based on supplied app spec\ndef deploy(\n    algod_client: AlgodClient,\n    indexer_client: IndexerClient,\n    app_spec: algokit_utils.ApplicationSpecification,\n    deployer: algokit_utils.Account,\n) -> None:\n    from smart_contracts.artifacts.digital_marketplace.digital_marketplace_client import (\n        DigitalMarketplaceClient,",
+        "detail": "smart_contracts.digital_marketplace.deploy_config",
+        "documentation": {}
+    },
+    {
+        "label": "build",
+        "kind": 2,
+        "importPath": "smart_contracts._helpers.build",
+        "description": "smart_contracts._helpers.build",
+        "peekOfCode": "def build(output_dir: Path, contract_path: Path) -> Path:\n    output_dir = output_dir.resolve()\n    if output_dir.exists():\n        rmtree(output_dir)\n    output_dir.mkdir(exist_ok=True, parents=True)\n    logger.info(f\"Exporting {contract_path} to {output_dir}\")\n    build_result = subprocess.run(\n        [\n            \"algokit\",\n            \"--no-color\",",
+        "detail": "smart_contracts._helpers.build",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "smart_contracts._helpers.build",
+        "description": "smart_contracts._helpers.build",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndeployment_extension = \"py\"\ndef _get_output_path(output_dir: Path, deployment_extension: str) -> Path:\n    return output_dir / Path(\n        \"{contract_name}\"\n        + (\"_client\" if deployment_extension == \"py\" else \"Client\")\n        + f\".{deployment_extension}\"\n    )\ndef build(output_dir: Path, contract_path: Path) -> Path:\n    output_dir = output_dir.resolve()",
+        "detail": "smart_contracts._helpers.build",
+        "documentation": {}
+    },
+    {
+        "label": "deployment_extension",
+        "kind": 5,
+        "importPath": "smart_contracts._helpers.build",
+        "description": "smart_contracts._helpers.build",
+        "peekOfCode": "deployment_extension = \"py\"\ndef _get_output_path(output_dir: Path, deployment_extension: str) -> Path:\n    return output_dir / Path(\n        \"{contract_name}\"\n        + (\"_client\" if deployment_extension == \"py\" else \"Client\")\n        + f\".{deployment_extension}\"\n    )\ndef build(output_dir: Path, contract_path: Path) -> Path:\n    output_dir = output_dir.resolve()\n    if output_dir.exists():",
+        "detail": "smart_contracts._helpers.build",
+        "documentation": {}
+    },
+    {
+        "label": "SmartContract",
+        "kind": 6,
+        "importPath": "smart_contracts._helpers.config",
+        "description": "smart_contracts._helpers.config",
+        "peekOfCode": "class SmartContract:\n    path: Path\n    name: str\n    deploy: (\n        Callable[[AlgodClient, IndexerClient, ApplicationSpecification, Account], None]\n        | None\n    ) = None\ndef import_contract(folder: Path) -> Path:\n    \"\"\"Imports the contract from a folder if it exists.\"\"\"\n    contract_path = folder / \"contract.py\"",
+        "detail": "smart_contracts._helpers.config",
+        "documentation": {}
+    },
+    {
+        "label": "import_contract",
+        "kind": 2,
+        "importPath": "smart_contracts._helpers.config",
+        "description": "smart_contracts._helpers.config",
+        "peekOfCode": "def import_contract(folder: Path) -> Path:\n    \"\"\"Imports the contract from a folder if it exists.\"\"\"\n    contract_path = folder / \"contract.py\"\n    if contract_path.exists():\n        return contract_path\n    else:\n        raise Exception(f\"Contract not found in {folder}\")\ndef import_deploy_if_exists(\n    folder: Path,\n) -> (",
+        "detail": "smart_contracts._helpers.config",
+        "documentation": {}
+    },
+    {
+        "label": "import_deploy_if_exists",
+        "kind": 2,
+        "importPath": "smart_contracts._helpers.config",
+        "description": "smart_contracts._helpers.config",
+        "peekOfCode": "def import_deploy_if_exists(\n    folder: Path,\n) -> (\n    Callable[[AlgodClient, IndexerClient, ApplicationSpecification, Account], None]\n    | None\n):\n    \"\"\"Imports the deploy function from a folder if it exists.\"\"\"\n    try:\n        deploy_module = importlib.import_module(\n            f\"{folder.parent.name}.{folder.name}.deploy_config\"",
+        "detail": "smart_contracts._helpers.config",
+        "documentation": {}
+    },
+    {
+        "label": "has_contract_file",
+        "kind": 2,
+        "importPath": "smart_contracts._helpers.config",
+        "description": "smart_contracts._helpers.config",
+        "peekOfCode": "def has_contract_file(directory: Path) -> bool:\n    \"\"\"Checks whether the directory contains contract.py file.\"\"\"\n    return (directory / \"contract.py\").exists()\n# define contracts to build and/or deploy\nbase_dir = Path(\"smart_contracts\")\ncontracts = [\n    SmartContract(\n        path=import_contract(folder),\n        name=folder.name,\n        deploy=import_deploy_if_exists(folder),",
+        "detail": "smart_contracts._helpers.config",
+        "documentation": {}
+    },
+    {
+        "label": "base_dir",
+        "kind": 5,
+        "importPath": "smart_contracts._helpers.config",
+        "description": "smart_contracts._helpers.config",
+        "peekOfCode": "base_dir = Path(\"smart_contracts\")\ncontracts = [\n    SmartContract(\n        path=import_contract(folder),\n        name=folder.name,\n        deploy=import_deploy_if_exists(folder),\n    )\n    for folder in base_dir.iterdir()\n    if folder.is_dir() and has_contract_file(folder)\n]",
+        "detail": "smart_contracts._helpers.config",
+        "documentation": {}
+    },
+    {
+        "label": "contracts",
+        "kind": 5,
+        "importPath": "smart_contracts._helpers.config",
+        "description": "smart_contracts._helpers.config",
+        "peekOfCode": "contracts = [\n    SmartContract(\n        path=import_contract(folder),\n        name=folder.name,\n        deploy=import_deploy_if_exists(folder),\n    )\n    for folder in base_dir.iterdir()\n    if folder.is_dir() and has_contract_file(folder)\n]",
+        "detail": "smart_contracts._helpers.config",
+        "documentation": {}
+    },
+    {
+        "label": "deploy",
+        "kind": 2,
+        "importPath": "smart_contracts._helpers.deploy",
+        "description": "smart_contracts._helpers.deploy",
+        "peekOfCode": "def deploy(\n    app_spec_path: Path,\n    deploy_callback: Callable[\n        [AlgodClient, IndexerClient, ApplicationSpecification, Account], None\n    ],\n    deployer_initial_funds: int = 2,\n) -> None:\n    # get clients\n    # by default client configuration is loaded from environment variables\n    algod_client = get_algod_client()",
+        "detail": "smart_contracts._helpers.deploy",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "smart_contracts._helpers.deploy",
+        "description": "smart_contracts._helpers.deploy",
+        "peekOfCode": "logger = logging.getLogger(__name__)\ndef deploy(\n    app_spec_path: Path,\n    deploy_callback: Callable[\n        [AlgodClient, IndexerClient, ApplicationSpecification, Account], None\n    ],\n    deployer_initial_funds: int = 2,\n) -> None:\n    # get clients\n    # by default client configuration is loaded from environment variables",
+        "detail": "smart_contracts._helpers.deploy",
+        "documentation": {}
+    },
+    {
+        "label": "algod_client",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def algod_client() -> AlgodClient:\n    # by default we are using localnet algod\n    client = get_algod_client(get_default_localnet_config(\"algod\"))\n    return client\n@pytest.fixture(scope=\"session\")\ndef indexer_client() -> IndexerClient:\n    return get_indexer_client(get_default_localnet_config(\"indexer\"))",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "indexer_client",
+        "kind": 2,
+        "importPath": "tests.conftest",
+        "description": "tests.conftest",
+        "peekOfCode": "def indexer_client() -> IndexerClient:\n    return get_indexer_client(get_default_localnet_config(\"indexer\"))",
+        "detail": "tests.conftest",
+        "documentation": {}
+    },
+    {
+        "label": "digital_marketplace_client",
+        "kind": 2,
+        "importPath": "tests.digital_marketplace_client_test",
+        "description": "tests.digital_marketplace_client_test",
+        "peekOfCode": "def digital_marketplace_client(\n    algod_client: AlgodClient, indexer_client: IndexerClient\n) -> DigitalMarketplaceClient:\n    config.configure(\n        debug=True,\n        # trace_all=True,\n    )\n    client = DigitalMarketplaceClient(\n        algod_client,\n        creator=get_localnet_default_account(algod_client),",
+        "detail": "tests.digital_marketplace_client_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_says_hello",
+        "kind": 2,
+        "importPath": "tests.digital_marketplace_client_test",
+        "description": "tests.digital_marketplace_client_test",
+        "peekOfCode": "def test_says_hello(digital_marketplace_client: DigitalMarketplaceClient) -> None:\n    result = digital_marketplace_client.hello(name=\"World\")\n    assert result.return_value == \"Hello, World\"\ndef test_simulate_says_hello_with_correct_budget_consumed(\n    digital_marketplace_client: DigitalMarketplaceClient, algod_client: AlgodClient\n) -> None:\n    result = (\n        digital_marketplace_client.compose().hello(name=\"World\").hello(name=\"Jane\").simulate()\n    )\n    assert result.abi_results[0].return_value == \"Hello, World\"",
+        "detail": "tests.digital_marketplace_client_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_simulate_says_hello_with_correct_budget_consumed",
+        "kind": 2,
+        "importPath": "tests.digital_marketplace_client_test",
+        "description": "tests.digital_marketplace_client_test",
+        "peekOfCode": "def test_simulate_says_hello_with_correct_budget_consumed(\n    digital_marketplace_client: DigitalMarketplaceClient, algod_client: AlgodClient\n) -> None:\n    result = (\n        digital_marketplace_client.compose().hello(name=\"World\").hello(name=\"Jane\").simulate()\n    )\n    assert result.abi_results[0].return_value == \"Hello, World\"\n    assert result.abi_results[1].return_value == \"Hello, Jane\"\n    assert result.simulate_response[\"txn-groups\"][0][\"app-budget-consumed\"] < 100",
+        "detail": "tests.digital_marketplace_client_test",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "kind": 2,
+        "importPath": "tests.digital_marketplace_test",
+        "description": "tests.digital_marketplace_test",
+        "peekOfCode": "def context() -> Iterator[AlgopyTestContext]:\n    with algopy_testing_context() as ctx:\n        yield ctx\ndef test_hello(context: AlgopyTestContext) -> None:\n    # Arrange\n    dummy_input = context.any.string(length=10)\n    contract = DigitalMarketplace()\n    # Act\n    output = contract.hello(dummy_input)\n    # Assert",
+        "detail": "tests.digital_marketplace_test",
+        "documentation": {}
+    },
+    {
+        "label": "test_hello",
+        "kind": 2,
+        "importPath": "tests.digital_marketplace_test",
+        "description": "tests.digital_marketplace_test",
+        "peekOfCode": "def test_hello(context: AlgopyTestContext) -> None:\n    # Arrange\n    dummy_input = context.any.string(length=10)\n    contract = DigitalMarketplace()\n    # Act\n    output = contract.hello(dummy_input)\n    # Assert\n    assert output == f\"Hello, {dummy_input}\"",
+        "detail": "tests.digital_marketplace_test",
+        "documentation": {}
+    }
+]
